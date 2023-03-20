@@ -1,0 +1,133 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "SP2",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 35,
+          "y": 44,
+          "width": 245,
+          "height": 262
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 65,
+          "y": 1473,
+          "width": 439,
+          "height": 173
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "SP1",
+            "data": "prev"
+        }
+      },
+      {
+        "bounds": {
+          "x": 448,
+          "y": 355,
+          "width": 650,
+          "height": 215
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยอำนวยการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 405,
+          "y": 633,
+          "width": 744,
+          "height": 228
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักงานอธิการบดี"
+        }
+      },
+      {
+        "bounds": {
+          "x": 405,
+          "y": 908,
+          "width": 731,
+          "height": 232
+        },
+        "action": {
+          "type": "message",
+          "text": "กองการกีฬา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 182,
+          "y": 1199,
+          "width": 1190,
+          "height": 233
+        },
+        "action": {
+          "type": "message",
+          "text": "องค์การนักศึกษามหาวิทยาลัยขอนแก่น"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1305,
+          "y": 363,
+          "width": 1127,
+          "height": 211
+        },
+        "action": {
+          "type": "message",
+          "text": "กองป้องกันและรักษาความปลอดภัย"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1394,
+          "y": 659,
+          "width": 1030,
+          "height": 194
+        },
+        "action": {
+          "type": "message",
+          "text": "กองพัฒนาคุณภาพการศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1461,
+          "y": 917,
+          "width": 929,
+          "height": 220
+        },
+        "action": {
+          "type": "message",
+          "text": "กองบริการหอพักนักศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1567,
+          "y": 1212,
+          "width": 743,
+          "height": 207
+        },
+        "action": {
+          "type": "message",
+          "text": "กองอาคารและสถานที่"
+        }
+      }
+    ]
+  }

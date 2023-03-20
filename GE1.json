@@ -1,0 +1,146 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "GE1",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 34,
+          "y": 38,
+          "width": 245,
+          "height": 262
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 58,
+          "y": 1480,
+          "width": 439,
+          "height": 173
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 2044,
+          "y": 1466,
+          "width": 380,
+          "height": 177
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "GE2",
+            "data": "next"
+        }
+      },
+      {
+        "bounds": {
+          "x": 155,
+          "y": 418,
+          "width": 1103,
+          "height": 182
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักบริหารและพัฒนาวิชาการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 355,
+          "y": 667,
+          "width": 739,
+          "height": 237
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยทะเบียนเรียน"
+        }
+      },
+      {
+        "bounds": {
+          "x": 406,
+          "y": 933,
+          "width": 734,
+          "height": 228
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยการเงิน"
+        }
+      },
+      {
+        "bounds": {
+          "x": 177,
+          "y": 1208,
+          "width": 1195,
+          "height": 236
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยทะเบียนประวัตินักศึกษาและหน่วยอุทธรณ์โทษทางการศึกษาวิชาการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1432,
+          "y": 351,
+          "width": 1005,
+          "height": 270
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยตรวจสอบและติดตามผลการศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1504,
+          "y": 701,
+          "width": 890,
+          "height": 194
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยบริการทางการศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1554,
+          "y": 942,
+          "width": 756,
+          "height": 211
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยสหกิจศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1563,
+          "y": 1208,
+          "width": 747,
+          "height": 220
+        },
+        "action": {
+          "type": "message",
+          "text": "ปฏิทินการศึกษา"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,146 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "SP1",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 34,
+          "y": 38,
+          "width": 245,
+          "height": 262
+        },
+        "action": { 
+           "type": "richmenuswitch",
+           "richMenuAliasId": "main",
+           "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 448,
+          "y": 338,
+          "width": 646,
+          "height": 232
+        },
+        "action": {
+          "type": "message",
+          "text": "สถาบันขงจื่อ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 401,
+          "y": 642,
+          "width": 743,
+          "height": 220
+        },
+        "action": {
+          "type": "message",
+          "text": "งานพัฒนานักศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 401,
+          "y": 921,
+          "width": 739,
+          "height": 219
+        },
+        "action": {
+          "type": "message",
+          "text": "ศูนย์สื่อการเรียนรู้"
+        }
+      },
+      {
+        "bounds": {
+          "x": 169,
+          "y": 1204,
+          "width": 1208,
+          "height": 228
+        },
+        "action": {
+          "type": "message",
+          "text": "กองพัฒนานักศึกษาและศิษย์เก่าสัมพันธ์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1423,
+          "y": 355,
+          "width": 1014,
+          "height": 202
+        },
+        "action": {
+          "type": "message",
+          "text": "งานบริการและสวัสดิการนักศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1546,
+          "y": 633,
+          "width": 789,
+          "height": 212
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักบริการวิชาการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1461,
+          "y": 916,
+          "width": 933,
+          "height": 224
+        },
+        "action": {
+          "type": "message",
+          "text": "โรงพิมพ์มหาวิทยาลัยขอนแก่น"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1571,
+          "y": 1212,
+          "width": 743,
+          "height": 211
+        },
+        "action": {
+          "type": "message",
+          "text": "งานศิษย์เก่าสัมพันธ์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 59,
+          "y": 1478,
+          "width": 439,
+          "height": 173
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "SP2",
+            "data": "next"
+        }
+      },
+      {
+        "bounds": {
+          "x": 2047,
+          "y": 1470,
+          "width": 377,
+          "height": 177
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      }
+    ]
+  }

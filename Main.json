@@ -1,0 +1,59 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "Main",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 1000,
+          "y": 182,
+          "width": 698,
+          "height": 646
+        },
+        "action": {
+          "type": "message",
+          "text": "Action 1"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1753,
+          "y": 183,
+          "width": 698,
+          "height": 646
+        },
+        "action": {
+          "type": "message",
+          "text": "Action 2"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1000,
+          "y": 882,
+          "width": 698,
+          "height": 646
+        },
+        "action": {
+          "type": "message",
+          "text": "Action 3"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1745,
+          "y": 872,
+          "width": 698,
+          "height": 646
+        },
+        "action": {
+          "type": "message",
+          "text": "Action 4"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,146 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "EN1",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 34,
+          "y": 38,
+          "width": 245,
+          "height": 262
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 57,
+          "y": 1481,
+          "width": 439,
+          "height": 173
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 2051,
+          "y": 1465,
+          "width": 380,
+          "height": 177
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "EN2",
+            "data": "next"
+        }
+      },
+      {
+        "bounds": {
+          "x": 283,
+          "y": 342,
+          "width": 1022,
+          "height": 228
+        },
+        "action": {
+          "type": "message",
+          "text": "ห้องสมุดคณะวิศวกรรมศาตร์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1512,
+          "y": 346,
+          "width": 866,
+          "height": 216
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมไฟฟ้า"
+        }
+      },
+      {
+        "bounds": {
+          "x": 270,
+          "y": 658,
+          "width": 1043,
+          "height": 225
+        },
+        "action": {
+          "type": "message",
+          "text": "สโมสรนักศึกษาวิศวกรรมศาสตร์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1486,
+          "y": 659,
+          "width": 908,
+          "height": 215
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมเกษตร"
+        }
+      },
+      {
+        "bounds": {
+          "x": 384,
+          "y": 937,
+          "width": 824,
+          "height": 224
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมโยธา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 262,
+          "y": 1195,
+          "width": 1068,
+          "height": 232
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมสิ่งแวดล้อม"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1470,
+          "y": 946,
+          "width": 912,
+          "height": 211
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมอุตสาหการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1465,
+          "y": 1220,
+          "width": 967,
+          "height": 203
+        },
+        "action": {
+          "type": "message",
+          "text": "สาขาวิชาวิศวกรรมเครื่องกล"
+        }
+      }
+    ]
+  }

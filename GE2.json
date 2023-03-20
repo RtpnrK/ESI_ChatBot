@@ -1,0 +1,133 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "GE2",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 34,
+          "y": 38,
+          "width": 245,
+          "height": 262
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "main",
+            "data": "home"
+        }
+      },
+      {
+        "bounds": {
+          "x": 61,
+          "y": 1472,
+          "width": 439,
+          "height": 173
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "GE1",
+            "data": "prev"
+        }
+      },
+      {
+        "bounds": {
+          "x": 393,
+          "y": 363,
+          "width": 663,
+          "height": 241
+        },
+        "action": {
+          "type": "message",
+          "text": "ลงทะเบียนเรียน"
+        }
+      },
+      {
+        "bounds": {
+          "x": 397,
+          "y": 663,
+          "width": 663,
+          "height": 232
+        },
+        "action": {
+          "type": "message",
+          "text": "สถาบันภาษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 267,
+          "y": 955,
+          "width": 983,
+          "height": 219
+        },
+        "action": {
+          "type": "message",
+          "text": "งานการสอนและวิชาการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 224,
+          "y": 1208,
+          "width": 1089,
+          "height": 219
+        },
+        "action": {
+          "type": "message",
+          "text": "สถาบันการสอนวิชาศึกษาทั่วไป "
+        }
+      },
+      {
+        "bounds": {
+          "x": 1520,
+          "y": 367,
+          "width": 862,
+          "height": 212
+        },
+        "action": {
+          "type": "message",
+          "text": "สายด่วนอาจารย์ผู้สอน"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1499,
+          "y": 663,
+          "width": 891,
+          "height": 215
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักเทคโนโลยีดิจิทัล"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1617,
+          "y": 938,
+          "width": 663,
+          "height": 215
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักหอสมุด"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1596,
+          "y": 1216,
+          "width": 710,
+          "height": 211
+        },
+        "action": {
+          "type": "message",
+          "text": "ทุนการศึกษา"
+        }
+      }
+    ]
+  }
