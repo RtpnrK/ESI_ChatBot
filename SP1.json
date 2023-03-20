@@ -4,7 +4,7 @@
       "height": 1686
     },
     "selected": true,
-    "name": "SP1",
+    "name": "sp1",
     "chatBarText": "Menu",
     "areas": [
       {
@@ -124,9 +124,9 @@
           "height": 173
         },
         "action": {
-            "type": "richmenuswitch",
-            "richMenuAliasId": "SP2",
-            "data": "next"
+          "type": "richmenuswitch",
+          "richMenuAliasId": "main",
+          "data": "home"
         }
       },
       {
@@ -138,8 +138,8 @@
         },
         "action": {
             "type": "richmenuswitch",
-            "richMenuAliasId": "main",
-            "data": "home"
+            "richMenuAliasId": "sp2",
+            "data": "next"
         }
       }
     ]
