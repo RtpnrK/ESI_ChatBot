@@ -1,0 +1,168 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "sub",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 38,
+          "y": 1470,
+          "width": 448,
+          "height": 181
+        },
+        "action": {
+          "type": "richmenuswitch",
+          "richMenuAliasId": "main",
+          "data": "richmenu=a"
+        }
+      },
+      {
+        "bounds": {
+          "x": 342,
+          "y": 165,
+          "width": 646,
+          "height": 190
+        },
+        "action": {
+          "type": "message",
+          "text": "สถาบันขงจื่อ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 253,
+          "y": 376,
+          "width": 803,
+          "height": 190
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักบริการวิชาการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 253,
+          "y": 583,
+          "width": 786,
+          "height": 191
+        },
+        "action": {
+          "type": "message",
+          "text": "งานพัฒนานักศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 291,
+          "y": 794,
+          "width": 731,
+          "height": 173
+        },
+        "action": {
+          "type": "message",
+          "text": "ศูนย์สื่อการเรียนรู้"
+        }
+      },
+      {
+        "bounds": {
+          "x": 194,
+          "y": 1018,
+          "width": 912,
+          "height": 169
+        },
+        "action": {
+          "type": "message",
+          "text": "โรงพิมพ์มหาวิทยาลัยขอนแก่น"
+        }
+      },
+      {
+        "bounds": {
+          "x": 76,
+          "y": 1250,
+          "width": 1140,
+          "height": 173
+        },
+        "action": {
+          "type": "message",
+          "text": "กองพัฒนานักศึกษาและศิษย์เก่าสัมพันธ์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1381,
+          "y": 156,
+          "width": 1018,
+          "height": 195
+        },
+        "action": {
+          "type": "message",
+          "text": "งานบริการและสวัสดิการนักศึกษา"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1313,
+          "y": 380,
+          "width": 1141,
+          "height": 177
+        },
+        "action": {
+          "type": "message",
+          "text": "องค์การนักศึกษามหาวิทยาลัยขอนแก่น"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1533,
+          "y": 591,
+          "width": 756,
+          "height": 199
+        },
+        "action": {
+          "type": "message",
+          "text": "งานศิษย์เก่าสัมพันธ์"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1563,
+          "y": 815,
+          "width": 726,
+          "height": 177
+        },
+        "action": {
+          "type": "message",
+          "text": "หน่วยอำนวยการ"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1563,
+          "y": 1039,
+          "width": 730,
+          "height": 160
+        },
+        "action": {
+          "type": "message",
+          "text": "สำนักงานอธิการบดี"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1554,
+          "y": 1246,
+          "width": 735,
+          "height": 143
+        },
+        "action": {
+          "type": "message",
+          "text": "กองการกีฬา"
+        }
+      }
+    ]
+  }
