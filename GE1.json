@@ -4,7 +4,7 @@
       "height": 1686
     },
     "selected": true,
-    "name": "GE1",
+    "name": "ge1",
     "chatBarText": "Menu",
     "areas": [
       {
@@ -42,7 +42,7 @@
         },
         "action": {
             "type": "richmenuswitch",
-            "richMenuAliasId": "GE2",
+            "richMenuAliasId": "ge2",
             "data": "next"
         }
       },

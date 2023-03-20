@@ -4,7 +4,7 @@
       "height": 1686
     },
     "selected": true,
-    "name": "EN2",
+    "name": "en2",
     "chatBarText": "Menu",
     "areas": [
       {
@@ -29,7 +29,7 @@
         },
         "action": {
             "type": "richmenuswitch",
-            "richMenuAliasId": "EN1",
+            "richMenuAliasId": "en1",
             "data": "prev"
         }
       },
